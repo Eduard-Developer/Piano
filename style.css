@@ -1,0 +1,78 @@
+
+.list-style-none{
+    list-style: none;
+}
+li{
+    color: inherit;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 5rem;
+    padding-top: 5rem;
+    color:white;
+    /*text-shadow: 2rem, 2rem, 2rem;*/
+}
+.text-align-center{
+    text-align: center;
+}
+.low-opacity{
+    opacity: 0.25;
+}
+
+
+nav{
+    height: 35rem;
+    background-image: url(/images/pexels-pavel-danilyuk-7521205.jpg);
+    background-position: top;
+    background-size: 80rem;
+    text-align: center;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius: 10px;
+}
+
+body{
+    margin:0px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 5rem;
+    padding-top: 3rem;
+    text-align:center;
+    color:white;
+}
+.piano-image{
+    width: 20rem
+}
+p{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    margin:0;
+    padding-top: 5rem;;
+    color:white;
+}
+div{
+    /*padding-left:80rem;*/
+    text-align:center;
+    justify-content: center;
+    background-color: black;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    border-radius: 10px;
+}
+a{
+    border: none;
+    margin-top: 7.25rem;
+    padding: 1rem;
+    background-color: gray;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+    display: inline-block;
+    border-radius: 50px;
+    text-decoration: inherit;
+    
+}
+.button:hover{
+    background-color: rgb(255, 0, 0);
+}
